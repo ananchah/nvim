@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Tidied up project structure
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Updated .gitignore to exclude build artifacts
