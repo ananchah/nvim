@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-23
 - Tidied up project structure
+
+## 2026-04-06
+- Refactored module structure for clarity
+- Resolved deprecation warnings
