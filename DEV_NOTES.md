@@ -30,3 +30,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-13
 - Tidied up project structure
+
+## 2026-04-13
+- Checked for memory leaks in long-running path
+- Improved log message formatting
